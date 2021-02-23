@@ -7,3 +7,5 @@ I am a Master Student at ETH Zürich, studying Robotics. I am programming robots
 - Contact me with [✉️ Email](mailto:linghao.zhang@protonmail.com)
 - Ask for my 📱 number to find me on various IM.
 - Socialize with me on [🐘 Mastodon](https://m.cmx.im/@carlosevo)
+
+English/Deutsch/普通话/粵語
