@@ -1,6 +1,6 @@
 ### Hello there, I am zoenglinghou 👋
 
-I am a Master Student at ETH Zürich, studying 🤖 Robotics.
+I am a 🤖 Robotics Engineer at Kemaro AG.
 
 - Contact me with [✉️ Email](mailto:linghao.zhang@protonmail.com)
 - Ask for my 📱 number to find me on various IM.
